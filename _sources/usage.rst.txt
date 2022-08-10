@@ -1,0 +1,23 @@
+Usage
+=====
+
+
+
+Instalation
+-----------
+
+.. note::
+   This project is under active development.
+
+
+Models
+------
+
+.. automodule:: modelos
+   :members:
+
+Clasificador
+------------
+.. automodule:: clasificador
+   :members:
+
